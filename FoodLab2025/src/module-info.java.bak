@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module FoodLab2025 {
+	requires java.desktop;
+	requires java.sql;
+}
